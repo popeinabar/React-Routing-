@@ -1,0 +1,38 @@
+* {
+ 
+  font-size: 1.4rem;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+   text-align: center;
+}
+
+.nav {
+  width: 100vw;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+}
+
+
+
+
+.nav div{
+  display: flex;
+  
+}
+.nav a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  margin-left: 1rem;
+  padding: 1rem;
+}
+
